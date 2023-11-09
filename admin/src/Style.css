@@ -1,0 +1,30 @@
+.outer{
+    margin-left: 350px;
+    margin-right:350px ;
+    margin-top: 80px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(48, 48, 48);
+    border-radius: 20px;
+}
+.eml,.pass,.log,.cna{
+    margin: 15px;
+}
+.eml{
+    width: 600px;
+}
+.pass{
+    width: 500px;
+}
+.cna{
+    padding-top: 100px;
+padding-left: 700px;
+}
+
+.iha{
+    float: right;
+    margin-right:30px ;
+}
